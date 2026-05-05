@@ -1,6 +1,6 @@
-# Project Title (Update)
+# Student Grade Calculator
 
-Add a description of your project here.
+A command-line application written in Rust that allows a user to manage a roster of students, input their scores, and calculate final grades. The program runs interactively in the terminal, accepting user input to add students, record scores, and display a full grade report.
 
 ## Instructions for Build and Use
 
